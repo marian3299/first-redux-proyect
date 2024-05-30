@@ -2,7 +2,7 @@ import * as types from '../actions/actionsTypes';
 
 //Declaramos el estado incial de lo que vamos a modificar
 const initialState = {
-    title: 'home'
+    title: 'Home'
 }
 
 //Metodo para implementar el reducer
